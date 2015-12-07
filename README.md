@@ -1,3 +1,3 @@
 # hello-world
-hello world
-This is Masahiro Ueno
+hello world\n
+This is Masahiro Ueno\n
